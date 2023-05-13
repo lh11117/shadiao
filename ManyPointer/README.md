@@ -4,4 +4,4 @@
 
 可输出到文件、终端。
 
-定义*2000重指针*也不在话下！
+定义<a href="https://github.com/lh11117/shadiao/blob/main/ManyPointer/test-out.cpp">*2000重指针*</a>也不在话下！
