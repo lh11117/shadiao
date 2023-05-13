@@ -52,5 +52,6 @@ int main(){
 	fout.close();
 	cout<<"note: 使用命令 “g++ "<<fname<<"” 即可进行编译！";
 #endif
+    system("pause"); 
 	return 0;
 }
